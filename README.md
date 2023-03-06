@@ -1,8 +1,8 @@
-## Meeting Minutes
+# Meeting Minutes
 Listing things to discuss and to do
 
 
-# 6/3/2023
+## 6/3/2023
 
 1. Determine research questions: to better guide characterization and classification and writeup
     - What type of comment is more likely to be selected by the editor? Does emotion/toxicity affect the editor selection? Is it affected by sections?

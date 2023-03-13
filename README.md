@@ -22,9 +22,9 @@ Listing things to discuss and to do
 ## 13/3/2023
 
 1. Stance that possible needed for our editor vs others:
-    1.1 Agreement/ Disagreement: The speaker expresses a similar or different opinion.
-    1.2 Source of knowledge: The speaker expresses the origin of what he or she says.
+    - 1.1 Agreement/ Disagreement: The speaker expresses a similar or different opinion.
+    - 1.2 Source of knowledge: The speaker expresses the origin of what he or she says.\\
         e.g. "According to the news, the rate of interest is not going up."
-    1.3 Tact/Rudeness: The speaker expresses pleasantries and unpleasantries.
+    - 1.3 Tact/Rudeness: The speaker expresses pleasantries and unpleasantries.
 2. Stance that not sure:
     ......

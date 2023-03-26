@@ -32,3 +32,8 @@ Listing things to discuss and to do
     1.3 Tact/Rudeness: The speaker expresses pleasantries and unpleasantries.
 2. Stance that not sure:
     ......
+    
+## 22/3/2023
+
+1. Annotate 500 comments from editor's pick, user's pick and non-editor's pick.
+2. Starting paper writing.
